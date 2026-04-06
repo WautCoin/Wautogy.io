@@ -4,4 +4,4 @@
 
 | Name   | Symbol | Type       | Networks                                          |
 |--------|--------|------------|---------------------------------------------------|
-| Tether | USDT   | Stablecoin | Ethereum, Tron, BNB Smart Chain, Solana, Polygon |
+| Tether | USDT   | stablecoin | Ethereum, Tron, BNB Smart Chain, Solana, Polygon |
